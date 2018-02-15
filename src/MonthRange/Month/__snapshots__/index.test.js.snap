@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+.glamor-0,
+[data-glamor-0] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: none;
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+<div
+  className="glamor-0"
+  onClick={[Function]}
+>
+  Jan
+</div>
+`;

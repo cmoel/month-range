@@ -1,0 +1,1267 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+.glamor-44,
+[data-glamor-44] {
+  margin: 42px auto 0;
+  max-width: 320px;
+}
+
+.glamor-1,
+[data-glamor-1] {
+  align-content: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  -webkit-align-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+}
+
+.glamor-0,
+[data-glamor-0] {
+  color: #333;
+  font-size: 1em;
+  margin: 0;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+}
+
+.glamor-2,
+[data-glamor-2] {
+  color: #333;
+  font-size: 0.75em;
+  font-weight: 400;
+  margin-top: 2em;
+  padding-bottom: 0.5em;
+}
+
+.glamor-15,
+[data-glamor-15] {
+  align-content: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-flow: row wrap;
+  padding: inherit;
+  -webkit-align-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -webkit-flex-flow: row wrap;
+}
+
+.glamor-3,
+[data-glamor-3] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: none;
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-8,
+[data-glamor-8] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: 1px solid hsl(182, 11%, 71%);
+  border-bottom: none;
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-9,
+[data-glamor-9] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: 1px solid hsl(182, 11%, 71%);
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-14,
+[data-glamor-14] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: 1px solid hsl(182, 11%, 71%);
+  border-bottom: 1px solid hsl(182, 11%, 71%);
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+<div
+  className="glamor-44"
+>
+  <header
+    className="glamor-1"
+  >
+    <h1
+      className="glamor-0"
+    >
+      Select a range
+    </h1>
+  </header>
+  <article>
+    <div
+      className="glamor-2"
+    >
+      2017
+    </div>
+    <div
+      className="glamor-15"
+    >
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Jan
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Feb
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Mar
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Apr
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        May
+      </div>
+      <div
+        className="glamor-8"
+        onClick={[Function]}
+      >
+        Jun
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Jul
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Aug
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Sep
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Oct
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Nov
+      </div>
+      <div
+        className="glamor-14"
+        onClick={[Function]}
+      >
+        Dec
+      </div>
+    </div>
+  </article>
+  <article>
+    <div
+      className="glamor-2"
+    >
+      2018
+    </div>
+    <div
+      className="glamor-15"
+    >
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Jan
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Feb
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Mar
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Apr
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        May
+      </div>
+      <div
+        className="glamor-8"
+        onClick={[Function]}
+      >
+        Jun
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Jul
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Aug
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Sep
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Oct
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Nov
+      </div>
+      <div
+        className="glamor-14"
+        onClick={[Function]}
+      >
+        Dec
+      </div>
+    </div>
+  </article>
+  <article>
+    <div
+      className="glamor-2"
+    >
+      2019
+    </div>
+    <div
+      className="glamor-15"
+    >
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Jan
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Feb
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Mar
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Apr
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        May
+      </div>
+      <div
+        className="glamor-8"
+        onClick={[Function]}
+      >
+        Jun
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Jul
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Aug
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Sep
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Oct
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Nov
+      </div>
+      <div
+        className="glamor-14"
+        onClick={[Function]}
+      >
+        Dec
+      </div>
+    </div>
+  </article>
+</div>
+`;
+
+exports[`renders correctly 2`] = `
+.glamor-44,
+[data-glamor-44] {
+  margin: 42px auto 0;
+  max-width: 320px;
+}
+
+.glamor-1,
+[data-glamor-1] {
+  align-content: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  -webkit-align-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+}
+
+.glamor-0,
+[data-glamor-0] {
+  color: #333;
+  font-size: 1em;
+  margin: 0;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+}
+
+.glamor-2,
+[data-glamor-2] {
+  color: #333;
+  font-size: 0.75em;
+  font-weight: 400;
+  margin-top: 2em;
+  padding-bottom: 0.5em;
+}
+
+.glamor-15,
+[data-glamor-15] {
+  align-content: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-flow: row wrap;
+  padding: inherit;
+  -webkit-align-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -webkit-flex-flow: row wrap;
+}
+
+.glamor-3,
+[data-glamor-3] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: none;
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-8,
+[data-glamor-8] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: 1px solid hsl(182, 11%, 71%);
+  border-bottom: none;
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-9,
+[data-glamor-9] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: 1px solid hsl(182, 11%, 71%);
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-14,
+[data-glamor-14] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: 1px solid hsl(182, 11%, 71%);
+  border-bottom: 1px solid hsl(182, 11%, 71%);
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-6,
+[data-glamor-6] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: none;
+  background-color: hsl(221, 97%, 54%);
+  color: #fff;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+<div
+  className="glamor-44"
+>
+  <header
+    className="glamor-1"
+  >
+    <h1
+      className="glamor-0"
+    >
+      Select a range
+    </h1>
+  </header>
+  <article>
+    <div
+      className="glamor-2"
+    >
+      2017
+    </div>
+    <div
+      className="glamor-15"
+    >
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Jan
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Feb
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Mar
+      </div>
+      <div
+        className="glamor-6 fst"
+        onClick={[Function]}
+      >
+        Apr
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        May
+      </div>
+      <div
+        className="glamor-8"
+        onClick={[Function]}
+      >
+        Jun
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Jul
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Aug
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Sep
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Oct
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Nov
+      </div>
+      <div
+        className="glamor-14"
+        onClick={[Function]}
+      >
+        Dec
+      </div>
+    </div>
+  </article>
+  <article>
+    <div
+      className="glamor-2"
+    >
+      2018
+    </div>
+    <div
+      className="glamor-15"
+    >
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Jan
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Feb
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Mar
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Apr
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        May
+      </div>
+      <div
+        className="glamor-8"
+        onClick={[Function]}
+      >
+        Jun
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Jul
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Aug
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Sep
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Oct
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Nov
+      </div>
+      <div
+        className="glamor-14"
+        onClick={[Function]}
+      >
+        Dec
+      </div>
+    </div>
+  </article>
+  <article>
+    <div
+      className="glamor-2"
+    >
+      2019
+    </div>
+    <div
+      className="glamor-15"
+    >
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Jan
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Feb
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Mar
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Apr
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        May
+      </div>
+      <div
+        className="glamor-8"
+        onClick={[Function]}
+      >
+        Jun
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Jul
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Aug
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Sep
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Oct
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Nov
+      </div>
+      <div
+        className="glamor-14"
+        onClick={[Function]}
+      >
+        Dec
+      </div>
+    </div>
+  </article>
+</div>
+`;
+
+exports[`renders correctly 3`] = `
+.glamor-44,
+[data-glamor-44] {
+  margin: 42px auto 0;
+  max-width: 320px;
+}
+
+.glamor-1,
+[data-glamor-1] {
+  align-content: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  -webkit-align-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+}
+
+.glamor-0,
+[data-glamor-0] {
+  color: #333;
+  font-size: 1em;
+  margin: 0;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+}
+
+.glamor-2,
+[data-glamor-2] {
+  color: #333;
+  font-size: 0.75em;
+  font-weight: 400;
+  margin-top: 2em;
+  padding-bottom: 0.5em;
+}
+
+.glamor-15,
+[data-glamor-15] {
+  align-content: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-flow: row wrap;
+  padding: inherit;
+  -webkit-align-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -webkit-flex-flow: row wrap;
+}
+
+.glamor-3,
+[data-glamor-3] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: none;
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-8,
+[data-glamor-8] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: 1px solid hsl(182, 11%, 71%);
+  border-bottom: none;
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-9,
+[data-glamor-9] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: 1px solid hsl(182, 11%, 71%);
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-14,
+[data-glamor-14] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: 1px solid hsl(182, 11%, 71%);
+  border-bottom: 1px solid hsl(182, 11%, 71%);
+  background-color: #fff;
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-4,
+[data-glamor-4] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: none;
+  background-color: hsl(221, 97%, 54%);
+  color: #fff;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.glamor-5,
+[data-glamor-5] {
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 2.5em;
+  text-align: center;
+  user-select: none;
+  width: 52px;
+  border-top: 1px solid hsl(182, 11%, 71%);
+  border-left: 1px solid hsl(182, 11%, 71%);
+  border-right: none;
+  border-bottom: none;
+  background-color: hsl(215, 50%, 94%);
+  color: #333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+<div
+  className="glamor-44"
+>
+  <header
+    className="glamor-1"
+  >
+    <h1
+      className="glamor-0"
+    >
+      Select a range
+    </h1>
+  </header>
+  <article>
+    <div
+      className="glamor-2"
+    >
+      2017
+    </div>
+    <div
+      className="glamor-15"
+    >
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Jan
+      </div>
+      <div
+        className="glamor-4 snd"
+        onClick={[Function]}
+      >
+        Feb
+      </div>
+      <div
+        className="glamor-5 selected"
+        onClick={[Function]}
+      >
+        Mar
+      </div>
+      <div
+        className="glamor-4 fst"
+        onClick={[Function]}
+      >
+        Apr
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        May
+      </div>
+      <div
+        className="glamor-8"
+        onClick={[Function]}
+      >
+        Jun
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Jul
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Aug
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Sep
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Oct
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Nov
+      </div>
+      <div
+        className="glamor-14"
+        onClick={[Function]}
+      >
+        Dec
+      </div>
+    </div>
+  </article>
+  <article>
+    <div
+      className="glamor-2"
+    >
+      2018
+    </div>
+    <div
+      className="glamor-15"
+    >
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Jan
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Feb
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Mar
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Apr
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        May
+      </div>
+      <div
+        className="glamor-8"
+        onClick={[Function]}
+      >
+        Jun
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Jul
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Aug
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Sep
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Oct
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Nov
+      </div>
+      <div
+        className="glamor-14"
+        onClick={[Function]}
+      >
+        Dec
+      </div>
+    </div>
+  </article>
+  <article>
+    <div
+      className="glamor-2"
+    >
+      2019
+    </div>
+    <div
+      className="glamor-15"
+    >
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Jan
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Feb
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Mar
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        Apr
+      </div>
+      <div
+        className="glamor-3"
+        onClick={[Function]}
+      >
+        May
+      </div>
+      <div
+        className="glamor-8"
+        onClick={[Function]}
+      >
+        Jun
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Jul
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Aug
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Sep
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Oct
+      </div>
+      <div
+        className="glamor-9"
+        onClick={[Function]}
+      >
+        Nov
+      </div>
+      <div
+        className="glamor-14"
+        onClick={[Function]}
+      >
+        Dec
+      </div>
+    </div>
+  </article>
+</div>
+`;
